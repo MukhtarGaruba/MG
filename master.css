@@ -1,0 +1,38 @@
+body{
+
+}
+
+.first-center{
+  background: #e6e6fa;
+  color: #000;
+
+}
+.first-article{
+  background: #eee;
+  color: #000;
+  margin-top: 30px;
+}
+.img-title{
+  background: #a9a9a9;
+
+}
+.article-img{
+  border-radius: 100px 100px 100px;
+  height: 400px;
+}
+.first-link{
+  text-decoration: none;
+}
+
+.first-link:hover{
+  font-size: 24px;
+    color: #000;
+}
+.art-link{
+  text-decoration: none;
+  font-weight: 900;
+}
+.art-link:hover{
+  font-size: 25px;
+    color: #000;
+}

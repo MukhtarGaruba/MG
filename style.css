@@ -1,0 +1,48 @@
+body{
+  background: #f5f5f5;
+}
+
+.article-image{
+  height: 200px;
+  width: 100%;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.article-img{
+  border-radius: 2000px 2000px 2000px;
+  margin-right: 50px;
+}
+.personal-profile{
+  margin-top: 0px
+  border-bottom: 2px solid #000;
+}
+.first-profile{
+  border-bottom: 2px solid #000;
+}
+
+
+.first-link{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+.my-portfolio{
+  border-bottom: 2px solid #000;
+}
+.social-media{
+  border-bottom: 2px solid #000;
+}
+.art-link{
+  text-decoration: none;
+  font-weight: 900;
+}
+.art-link:hover{
+  font-size: 25px;
+}
+
+.w-img {
+  width: 5%;
+  margin-left: 1400px;
+  margin-top: 10px;
+  border-radius: 50px 50px 50px;
+}
